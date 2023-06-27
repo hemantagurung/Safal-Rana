@@ -11,5 +11,5 @@ for i in range(2,A):
 if prime:
     print('The number is prime')
 
-else
+else:
     print('The number is not prime')
