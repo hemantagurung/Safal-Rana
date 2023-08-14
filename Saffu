@@ -8,8 +8,4 @@ for i in range(2,A):
         prime = False
         break
 
-if prime:
-    print('The number is prime')
 
-else:
-    print('The number is not prime')
